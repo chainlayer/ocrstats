@@ -1,0 +1,14 @@
+{
+  "name": "ocr-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Tyrion70",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ethereumjs-util": "^7.0.7",
+    "node-fetch": "^2.6.0",
+    "web3": "^1.2.5-rc.0"
+  }
+}
